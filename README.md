@@ -1,0 +1,2 @@
+# Scoreboard
+A game tracker

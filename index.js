@@ -15,6 +15,6 @@ function save() {
 }
 
 function iloveyou()
-{
+{ let count = "i love you"
     count.textContent="i love you"
 }

@@ -15,8 +15,7 @@ function save() {
 }
 
 function iloveyou()
-{ let countStrs = count + " I love you"
-saveEl.textContent += countStr
-countEl.textContent = 0
+{ let countStrs = " I love you"
+saveEl.textContent = iloveyou
 count = 0
 }

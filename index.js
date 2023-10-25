@@ -15,6 +15,8 @@ function save() {
 }
 
 function iloveyou()
-{ console.log("i love you")
+{
+    saveEl.textContent= "i love you"
+    countEl.textContent = 0
+    count = 0
 }
-saveEl.textContent(iloveyou())

@@ -17,6 +17,6 @@ function save() {
 function iloveyou()
 
 {
-if (loveU = 26){console.log" i love you margie"}
+if (saveEl = 26){console.log" i love you margie"}
 }
-
+iloveyou()

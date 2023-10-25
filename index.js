@@ -14,9 +14,9 @@ function save() {
     count = 0
 }
 
-function iloveyou()
-{ let loveU= count
-saveEl.textContent += loveU
+function iloveyou(){
+
+
 if (loveU = 26){ " i love you margie"}
     countEl.textContent = 0
     count = 0

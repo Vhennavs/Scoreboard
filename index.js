@@ -14,11 +14,9 @@ function save() {
     count = 0
 }
 
-function iloveyou(){
+function iloveyou()
 
-
-if (loveU = 26){ " i love you margie"}
-    countEl.textContent = 0
-    count = 0
+{
+if (loveU = 26){console.log" i love you margie"}
 }
 

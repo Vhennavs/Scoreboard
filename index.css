@@ -44,11 +44,10 @@ button {
 #save-btn {
     background: #1C7947;
 }
-
+#ilove-btn{
+    background: #FF0000;
+}
 #save-el {
     font-weight: bold;
-}
-#ilove-you{
-    background: #FF0000;
 }
 

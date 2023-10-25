@@ -15,6 +15,7 @@ function save() {
 }
 
 function iloveyou()
-{ console.log("i love you")
+{ saveEl.textContent("ilove you margie")
+count =0
 }
-iloveyou()
+

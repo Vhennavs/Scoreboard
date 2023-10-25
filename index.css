@@ -44,8 +44,9 @@ button {
 #save-btn {
     background: #1C7947;
 }
-#ilove-btn{
+#ilove-btn {
     background: #FF0000;
+    background-color: #FF0000;
 }
 #save-el {
     font-weight: bold;

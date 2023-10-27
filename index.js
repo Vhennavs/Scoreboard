@@ -17,6 +17,7 @@ function save() {
 function iloveyou()
 
 {
-if (saveEl = 26){console.log" i love you margie"}
+ {console.log" i love you margie"
+saveEl.textContent(iloveyou())}
 }
 iloveyou()

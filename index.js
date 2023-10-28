@@ -4,7 +4,7 @@ let countEl = document.getElementById("count-el")
 saveEl.textContent= document.getElementById("save-el")
 
 
-function increment() { 
-   saveEl.textContent (console.log(" fb.com/margie-manzano"))
+function increment() {  let margie = "fb.com/margie-manzano"
+   saveEl.textContent = margie
 }
 increment()
